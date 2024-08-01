@@ -8,8 +8,8 @@ const Internship = (props) => {
     <>
       <div className="internships__box">
         <h2>
-          <p>Internshala</p>
-          <p>Trainee</p>
+          <p>{props.details.companyName}</p>
+          <p>{props.details.role}</p>
         </h2>
         <h3>
           <FontAwesomeIcon

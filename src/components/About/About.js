@@ -77,7 +77,7 @@ const About = () => {
                 </p>
               </Link>
             </div>
-            <div
+            {/* <div
               className="about__details"
               data-aos="fade-down"
               data-aos-offset="-180"
@@ -97,7 +97,7 @@ const About = () => {
                   responsive frontend of websites using React.js and Bootstrap.
                 </p>
               </Link>
-            </div>
+            </div> */}
             <div
               className="about__details"
               data-aos="fade-down"
@@ -107,7 +107,7 @@ const About = () => {
             >
               <Link to="/about/internships">
                 <h1>
-                  0<span>3</span>
+                  0<span>2</span>
                 </h1>
                 <h2>
                   I<span>nternships</span>
@@ -140,7 +140,7 @@ const About = () => {
             >
               <Link to="/about/graduation">
                 <h1>
-                  0<span>4</span>
+                  0<span>3</span>
                 </h1>
                 <h2>
                   E<span>ngineering</span>
