@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 import "../../styles/Hero/Hero.scss";
 
-import Myself from "/Users/csaks/Downloads/react-portfolio/src/components/image/me.jpg";
+import Myself from "../../assets/images/me.jpg";
 
 const Hero = () => {
   useEffect(() => {
